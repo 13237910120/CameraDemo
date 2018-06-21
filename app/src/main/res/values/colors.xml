@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/color17</color>
+    <color name="colorPrimaryDark">#769941</color>
+    <color name="colorAccent">@color/color12</color>
+    <color name="colorBackground">#d9e1cc</color>
+    <!--紫外光紫（极光紫）5f4b8b-->
+    <color name="color18">#5f4b8b</color>
+    <!--草木绿 88b04b-->
+    <color name="color17">#88b04b</color>
+    <!--蔷薇石英粉/粉晶色-->
+    <color name="color16">#f7cdcc</color>
+    <!--静谧蓝-->
+    <color name="color16_2">#91A8D0</color>
+    <!--玛萨拉酒红-->
+    <color name="color15">#964F4C</color>
+    <!--兰花紫-->
+    <color name="color14">#AD5E99</color>
+    <!--翡翠绿-->
+    <color name="color13">#00997B</color>
+    <!--探戈橘-->
+    <color name="color12">#DD4124</color>
+    <!-- 金银花-->
+    <color name="color11">#D979A2</color>
+    <!-- 绿松石-->
+    <color name="color10">#4DB6AD</color>
+    <!--含羞草-->
+    <color name="color09">#F0C05A</color>
+    <!--鸢尾花-->
+    <color name="color08">#6364A5</color>
+    <!--辣椒红-->
+    <color name="color07">#9B1B30</color>
+    <!--沙色金币-->
+    <color name="color06">#DECDBE</color>
+    <!--绿松石色-->
+    <color name="color05">#53B0AE</color>
+    <!--虎皮百合-->
+    <color name="color04">#E2583E</color>
+    <!--水色天空  -->
+    <color name="color03">#7BC4C4</color>
+    <!--真实红-->
+    <color name="color02">#BF1932</color>
+    <!--桃红玫瑰色-->
+    <color name="color01">#C74375</color>
+    <!--蔚蓝色-->
+    <color name="color00">#9BB7D4</color>
+    <color name="white">#ffffff</color>
+
+</resources>
